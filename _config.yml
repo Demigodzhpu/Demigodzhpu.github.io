@@ -2,9 +2,9 @@
 title: 张阿蛮
 SEOTitle: 张阿蛮的大数据成神之路
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "不积跬步，无以至千里；不积小流，无以成江海"
-keyword: "大数据日常学习积累"
+email: demigod_zhp@163.com
+description: "不积跬步，无以至千里 不积小流，无以成江海"
+keyword: "大数据,Flink,Spark,Java"
 url: "https://Demigodzhpu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Demigodzhpu/klovien.github.io.git" # you code repository
