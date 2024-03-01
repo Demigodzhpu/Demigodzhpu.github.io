@@ -3,7 +3,7 @@ title: 张阿蛮
 SEOTitle: 张阿蛮的大数据成神之路
 header-img: img/post-bg-desk.jpg
 email: demigod_zhp@163.com
-description: "不积跬步，无以至千里 不积小流，无以成江海"
+description: "不积跬步,无以至千里 不积小流,无以成江海"
 keyword: "大数据,Flink,Spark,Java"
 url: "https://Demigodzhpu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: Demigodzhpu.github.io    #仓库名称
+  owner: Demigodzhpu    #github用户名
+  admin: Demigodzhpu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
